@@ -1,0 +1,26 @@
+{
+    "apps": [
+        {
+            "name": "Touch the Number",
+            "description": "",
+            "url": {
+                "ios": "https://apps.apple.com/us/app/touch-the-number/id1213236521",
+                "android": null
+            }
+        },{
+            "name": "脳トレ-Touch ABC",
+            "description": "",
+            "url": {
+                "ios": "https://apps.apple.com/us/app/%E8%84%B3%E3%83%88%E3%83%AC-touch-abc/id1511547536",
+                "android": null
+            }
+        },{
+            "name": "決まり字百人一首",
+            "description": "https://apps.apple.com/us/app/%E6%B1%BA%E3%81%BE%E3%82%8A%E5%AD%97%E7%99%BE%E4%BA%BA%E4%B8%80%E9%A6%96/id1202581512",
+            "url": {
+                "ios": "",
+                "android": null
+            }
+        }
+    ]
+}
